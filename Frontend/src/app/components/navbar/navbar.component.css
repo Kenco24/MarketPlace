@@ -1,0 +1,15 @@
+.first-menu p:hover {
+ 
+  cursor: pointer;
+  text-decoration:underline; 
+
+}
+
+.wallet button {
+  color:white;
+  font-size:20px
+}
+.wallet button:hover{
+background-color: skyblue;
+opacity: 50%;
+}

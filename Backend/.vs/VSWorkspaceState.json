@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MarketPlaceAPI",
+    "\\MarketPlaceAPI\\MarketPlaceAPI",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Data",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Transaction",
+    "\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations"
+  ],
+  "SelectedNode": "\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,81 @@
+<div class="h-screen flex items-center justify-center bg-gray-100">
+    <form class="shadow-md rounded-md p-5 bg-white w-1/4" [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+      <div class="py-4">
+        <h1 class="font-bold text-2xl mb-2">Register</h1>
+        <p class="text-gray-600 text-sm">Create a new account</p>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Email</mat-label>
+          <input matInput placeholder="Email" formControlName="email" />
+          <mat-icon matPrefix>email</mat-icon>
+        </mat-form-field>
+      </div>
+    
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Full Name</mat-label>
+          <input matInput placeholder="Full Name" formControlName="fullName" />
+          <mat-icon matPrefix>person</mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Country</mat-label>
+          <input matInput placeholder="Country" formControlName="country" />
+          <mat-icon matPrefix>location_city</mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>City</mat-label>
+          <input matInput placeholder="City" formControlName="city" />
+          <mat-icon matPrefix>location_city</mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Address</mat-label>
+          <input matInput placeholder="Address" formControlName="address" />
+          <mat-icon matPrefix>location_on</mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Password</mat-label>
+          <input matInput type="{{ hide ? 'password' : 'text'}}" formControlName="password" placeholder="Password" />
+          <mat-icon matPrefix>lock</mat-icon>
+          <mat-icon (click)="hide = !hide" matSuffix>
+            {{ hide ? 'visibility_off':'visibility'}}
+          </mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <div>
+        <mat-form-field appearance="fill" class="w-full mb-4">
+          <mat-label>Confirm Password</mat-label>
+          <input matInput type="{{ hide ? 'password' : 'text'}}" formControlName="confirmPassword" placeholder="Confirm Password" />
+          <mat-icon matPrefix>lock</mat-icon>
+          <mat-icon (click)="hide = !hide" matSuffix>
+            {{ hide ? 'visibility_off':'visibility'}}
+          </mat-icon>
+        </mat-form-field>
+      </div>
+  
+      <button type="submit" [disabled]="registerForm.invalid"
+        class="w-full bg-purple-700 text-white font-bold py-2 px-4 rounded-md hover:bg-purple-800 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50">
+        Register
+      </button>
+  
+      <div class="mt-5">
+        <span class="text-gray-600">Already have an account?</span>
+        <a class="text-purple-700 ml-1" [routerLink]="['/login']">Login</a>
+      </div>
+    </form>
+  </div>
+  

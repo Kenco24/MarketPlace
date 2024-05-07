@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\auth\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\auth\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\product\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\product\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\marketplaceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\marketplaceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\migrations\\20240506043504_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\migrations\\20240506043504_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\product\\producteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\product\\producteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\dtos\\auth\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\dtos\\auth\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\migrations\\20240505061026_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\migrations\\20240505061026_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\migrations\\20240505080757_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\migrations\\20240505080757_newtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\migrations\\20240505064344_addbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\migrations\\20240505064344_addbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\migrations\\20240505085144_productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\migrations\\20240505085144_productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:06:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-07T07:56:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:31:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\AppUser.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:30:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:05:13.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:11:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:26:14.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\appsettings.json",
+              "RelativeToolTip": "MarketPlaceAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T06:03:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAUwGkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:49:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BalanceController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\BalanceController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\BalanceController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\BalanceController.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\BalanceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:49:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:57:49.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductEditDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:26:20.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:26:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:28:09.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarketPlaceAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\MarketPlaceAPI.csproj",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\MarketPlaceAPI.csproj",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\MarketPlaceAPI.csproj",
+              "RelativeToolTip": "MarketPlaceAPI\\MarketPlaceAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T05:32:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240506043504_addcategory.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:35:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:26:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:45:14.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240505080757_newtables.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:07:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Transaction.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:44:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:24:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240505085144_productimage.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:51:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240505080556_newtables.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:05:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:15:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:10:32.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240505075515_newtables.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:55:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240505075436_newtables.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:54:36.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:01:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:02:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleAssignDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:01:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:00:06.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:59:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:02:12.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:58:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240505064344_addbalance.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:43:44.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-05T06:16:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240505061026_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwFwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:10:26.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240505060802_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:08:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240505060924_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:09:24.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

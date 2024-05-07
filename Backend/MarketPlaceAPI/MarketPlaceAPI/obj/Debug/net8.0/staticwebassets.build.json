@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PupQZBQb5esbQazh9vgL2pUSxbCLgW7Ygj6bpzuaFNI=",
+  "Source": "MarketPlaceAPI",
+  "BasePath": "_content/MarketPlaceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MarketPlaceAPI\\wwwroot",
+      "Source": "MarketPlaceAPI",
+      "ContentRoot": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\wwwroot\\",
+      "BasePath": "_content/MarketPlaceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
