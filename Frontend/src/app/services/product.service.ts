@@ -7,11 +7,10 @@ import { AuthService } from './auth.service';
   providedIn: 'root'
 })
 export class ProductService {
-  private baseUrl = 'https://localhost:7182/api/Product'; // Update with your API base URL
+  private baseUrl = 'https://localhost:7182/api/Product'; 
 
   constructor(private http: HttpClient, private authService:AuthService) { }
 
-  // Add methods to interact with your API endpoints
 
   addProduct(productData: any): Observable<any> {
     const token = this.authService.getToken();

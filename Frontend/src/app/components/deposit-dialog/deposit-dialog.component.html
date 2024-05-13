@@ -1,7 +1,33 @@
-<!-- deposit-dialog.component.html -->
-<div>
-    <h2>Deposit Money</h2>
-    <input type="number" placeholder="Enter amount">
-    <button>Confirm Deposit</button>
+<div class="flex bg-gray-200">
+  <div class="w-1/2 p-6">
+    <div>
+      <img src="../../../assets/credit-card.svg" alt="Credit card image" class="max-w-full h-auto">
+    </div>
+    <h2 class="text-2xl font-bold mb-4">Deposit Money</h2>
+    <form [formGroup]="depositForm" class="space-y-4" (submit)="onSubmit()">
+      <div>
+        <label for="cardNumber" class="block text-sm font-medium text-gray-700">Card Number</label>
+        <input id="cardNumber" type="text" formControlName="cardNumber" class="w-44 mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+        <div *ngIf="depositForm.get('cardNumber')?.invalid && depositForm.get('cardNumber')?.touched" class="text-red-500">Invalid card number.</div>
+      </div>
+      <div>
+        <label for="expirationDate" class="block text-sm font-medium text-gray-700">Expiration Date</label>
+        <input id="expirationDate" type="text" formControlName="expirationDate" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+        <div *ngIf="depositForm.get('expirationDate')?.invalid && depositForm.get('expirationDate')?.touched" class="text-red-500">Invalid expiration date.</div>
+      </div>
+      <div>
+        <label for="cvc" class="block text-sm font-medium text-gray-700">CVC</label>
+        <input id="cvc" type="text" formControlName="cvc" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+        <div *ngIf="depositForm.get('cvc')?.invalid && depositForm.get('cvc')?.touched" class="text-red-500">Invalid CVC.</div>
+      </div>
+      <div>
+        <label for="amount" class="block text-sm font-medium text-gray-700">Amount</label>
+        <input id="amount" type="number" formControlName="amount" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+        <div *ngIf="depositForm.get('amount')?.invalid && depositForm.get('amount')?.touched" class="text-red-500">Invalid amount.</div>
+      </div>
+      <div>
+        <button type="submit" [disabled]="isLoading" class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">Deposit</button>
+      </div>
+    </form>
   </div>
-  
+</div>

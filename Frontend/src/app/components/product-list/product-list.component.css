@@ -1,0 +1,7 @@
+.card {
+    border: 3px solid #e0e0e0; 
+  }
+  
+  .refresh-icon:hover path {
+    fill:#90E4C1;
+  }

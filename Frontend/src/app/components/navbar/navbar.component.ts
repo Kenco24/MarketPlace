@@ -39,4 +39,6 @@ export class NavbarComponent implements OnInit{
     console.log(this.userDetails.fullName + this.userDetails.email);
   
   }
+
+  
 }

@@ -31,7 +31,7 @@ export class BalanceService {
   }
 
   updateBalance(balance: number): void {
-    this.balanceSubject.next(balance);
+    this.balanceSubject.next(balance); 
   }
 
   getBalanceUpdates(): Observable<number> {

@@ -1,0 +1,9 @@
+<h1>{{ product.name }}</h1>
+<img [src]="product.image" alt="{{ product.name }}" style="width: 400px; height: 400px;">
+<p>Price: ${{ product.price }}</p>
+<p>Category: {{ product.categoryName }}</p>
+<p>Description: {{product.description}}</p>
+<p>Seller: {{ product.sellerFullName }}</p>
+
+
+<button mat-button color="primary" (click)="buyProduct()">Buy Product</button>

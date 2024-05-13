@@ -1,6 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from '../../services/product.service';
 import { Product } from '../../interfaces/other/product/product';
+import { MatDialog } from '@angular/material/dialog';
+import { ProductDetailsDialogComponent } from '../product-details-dialog/product-details-dialog.component';
+import { Router } from '@angular/router';
+
 
 @Component({
   selector: 'app-product-list',
@@ -9,11 +13,10 @@ import { Product } from '../../interfaces/other/product/product';
 })
 export class ProductListComponent implements OnInit {
   products: Product[] = [];
-  pageSize = 5; // Number of products per page (3 rows per page, each row containing up to 5 products)
-  currentPage = 1; // Current page number
-  paginatedRows: Product[][] = []; // Define the property for paginated rows
+  currentPage = 1; 
+  paginatedRows: Product[][] = []; 
 
-  constructor(private productService: ProductService) { }
+  constructor(private productService: ProductService,public dialog: MatDialog, private router: Router) { }
 
   ngOnInit(): void {
     this.loadProducts();
@@ -23,9 +26,7 @@ export class ProductListComponent implements OnInit {
     this.productService.getProducts().subscribe(
       (response) => {
         this.products = response;
-        // After getting products, fetch images for each product
-        this.fetchProductImages();
-        // Paginate the products into rows
+        this.fetchProductImages(); 
         this.paginateProducts();
       },
       (error) => {
@@ -33,62 +34,74 @@ export class ProductListComponent implements OnInit {
       }
     );
   }
-  
 
- fetchProductImages() {
-  this.products.forEach((product) => {
-    this.productService.getProductImage(product.id).subscribe(
-      (imageData) => {
-        // Assuming imageData is a Blob or ArrayBuffer
-        const reader = new FileReader();
-        reader.onload = () => {
-          // Set image data to product
-          product.image = reader.result as string;
-        };
-        reader.readAsDataURL(imageData);
-      },
-      (error) => {
-        console.error('Error fetching product image:', error);
-      }
-    );
-  });
-}
-
-  get paginatedProducts() {
-    const startIndex = (this.currentPage - 1) * this.pageSize;
-    return this.products.slice(startIndex, startIndex + this.pageSize);
+  fetchProductImages() {
+    this.products.forEach((product) => {
+      this.productService.getProductImage(product.id).subscribe(
+        (imageData) => {
+          const reader = new FileReader();
+          reader.onload = () => {
+            product.image = reader.result as string;
+          };
+          reader.readAsDataURL(imageData);
+        },
+        (error) => {
+          console.error('Error fetching product image:', error);
+        }
+      );
+    });
   }
+
+  paginateProducts() {
+    this.paginatedRows = [];
+    const productsPerPage = 15; 
+    const startIndex = (this.currentPage - 1) * productsPerPage;
+    const endIndex = Math.min(startIndex + productsPerPage, this.products.length);
+  
+    for (let i = startIndex; i < endIndex; i += 5) {
+      const row: Product[] = [];
+      for (let j = i; j < i + 5 && j < endIndex; j++) {
+        row.push(this.products[j]);
+      }
+      this.paginatedRows.push(row);
+    }
+  }
+  
 
   nextPage() {
     if (this.currentPage < this.totalPages) {
       this.currentPage++;
-    } else {
-      this.currentPage = 1; // Reset to the first page
+      this.paginateProducts();
     }
   }
 
   prevPage() {
     if (this.currentPage > 1) {
       this.currentPage--;
+      this.paginateProducts();
     }
   }
 
   get totalPages() {
-    return Math.ceil(this.products.length / this.pageSize);
+    const productsPerPage = 15; 
+    return Math.ceil(this.products.length / productsPerPage);
   }
 
   getPageNumbers(): number[] {
     return Array.from({ length: this.totalPages }, (_, index) => index + 1);
   }
 
-  paginateProducts() {
-    this.paginatedRows = [];
-    const productsPerPage = 3 * this.pageSize; // 3 rows per page, each row containing up to 5 products
-    const startIndex = (this.currentPage - 1) * productsPerPage;
-    const endIndex = Math.min(startIndex + productsPerPage, this.products.length);
-  
-    for (let i = startIndex; i < endIndex; i += 5) {
-      this.paginatedRows.push(this.products.slice(i, i + 5));
-    }
+
+  openProductDetails(product: Product): void {
+    const dialogRef = this.dialog.open(ProductDetailsDialogComponent, {
+      width: '400px',
+      data: product
+    });
+  }
+
+  refreshPage() {
+    this.router.navigateByUrl('/', { skipLocationChange: true }).then(() => {
+      window.location.reload();
+    });
   }
 }

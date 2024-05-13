@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\data\\repositories\\balancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\data\\repositories\\balancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\auth\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|solutionrelative:marketplaceapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6CB7BB-BC25-4C47-B358-70ADBF85217B}|MarketPlaceAPI\\MarketPlaceAPI.csproj|c:\\users\\kenan\\onedrive\\desktop\\marketplace\\backend\\marketplaceapi\\marketplaceapi\\controllers\\auth\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,7 +165,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -165,19 +173,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
-              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
-              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
-              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T08:06:20.608Z"
+              "WhenOpened": "2024-05-13T20:40:50.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "BalanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\BalanceRepository.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Repositories\\BalanceRepository.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\BalanceRepository.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Data\\Repositories\\BalanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:40:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "dbo.Users [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.Users.sql",
               "ToolTip": "dbo.Users [Data]",
@@ -186,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\ProductController.cs",
@@ -198,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\AppUser.cs",
@@ -210,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\AppDbContext.cs",
@@ -218,11 +240,12 @@
               "RelativeToolTip": "MarketPlaceAPI\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T06:05:13.761Z"
+              "WhenOpened": "2024-05-05T06:05:13.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Repositories\\ProductRepository.cs",
@@ -234,19 +257,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Program.cs",
               "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Program.cs",
               "RelativeToolTip": "MarketPlaceAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:26:14.72Z"
+              "WhenOpened": "2024-05-05T05:26:14.72Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\appsettings.json",
@@ -258,20 +282,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
               "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
               "RelativeToolTip": "MarketPlaceAPI\\Controllers\\Auth\\AccountController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAUwGkAAABYAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T06:49:36.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "RelativeToolTip": "MarketPlaceAPI\\Controllers\\Auth\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:06:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BalanceController.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\BalanceController.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Controllers\\BalanceController.cs",
@@ -283,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Product.cs",
@@ -295,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ProductEditDTO.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductEditDTO.cs",
@@ -307,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductListDTO.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductListDTO.cs",
@@ -319,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Category.cs",
@@ -331,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MarketPlaceAPI.csproj",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\MarketPlaceAPI.csproj",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\MarketPlaceAPI.csproj",
@@ -343,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20240506043504_addcategory.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240506043504_addcategory.cs",
@@ -355,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ProductCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Product\\ProductCreateDTO.cs",
@@ -367,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "TransactionCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Transaction\\TransactionCreateDTO.cs",
@@ -379,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "20240505080757_newtables.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505080757_newtables.cs",
@@ -391,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Models\\Transaction.cs",
@@ -403,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ProductCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\ProductCreateDTO.cs",
@@ -415,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "20240505085144_productimage.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505085144_productimage.cs",
@@ -427,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20240505080556_newtables.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505080556_newtables.cs",
@@ -439,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "SellerController.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Controllers\\SellerController.cs",
@@ -450,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Data\\Interfaces\\IProductRepository.cs",
@@ -462,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20240505075515_newtables.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075515_newtables.cs",
@@ -474,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "20240505075436_newtables.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505075436_newtables.cs",
@@ -486,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "UserDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\UserDetailDto.cs",
@@ -498,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "RoleResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RoleResponseDto.cs",
@@ -510,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "RoleAssignDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RoleAssignDto.cs",
@@ -522,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\RegisterDto.cs",
@@ -534,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\LoginDto.cs",
@@ -546,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CreateRoleDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\CreateRoleDto.cs",
@@ -558,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Dtos\\Auth\\AuthResponseDto.cs",
@@ -570,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "20240505064344_addbalance.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505064344_addbalance.cs",
@@ -582,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_06VKT7V_SQLEXPRESS/myMarketplace/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -591,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20240505061026_Initial.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Marketplace\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
               "RelativeDocumentMoniker": "MarketPlaceAPI\\Migrations\\20240505061026_Initial.cs",
@@ -603,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20240505060802_Initial.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060802_Initial.cs",
@@ -615,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "20240505060924_Initial.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Diplomska\\Backend\\MarketPlaceAPI\\MarketPlaceAPI\\Migrations\\20240505060924_Initial.cs",

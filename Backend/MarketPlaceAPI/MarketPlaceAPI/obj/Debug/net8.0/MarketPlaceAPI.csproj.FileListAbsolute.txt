@@ -287,3 +287,4 @@ C:\Users\kenan\OneDrive\Desktop\Marketplace\Backend\MarketPlaceAPI\MarketPlaceAP
 C:\Users\kenan\OneDrive\Desktop\Marketplace\Backend\MarketPlaceAPI\MarketPlaceAPI\obj\Debug\net8.0\MarketPlaceAPI.pdb
 C:\Users\kenan\OneDrive\Desktop\Marketplace\Backend\MarketPlaceAPI\MarketPlaceAPI\obj\Debug\net8.0\MarketPlaceAPI.genruntimeconfig.cache
 C:\Users\kenan\OneDrive\Desktop\Marketplace\Backend\MarketPlaceAPI\MarketPlaceAPI\obj\Debug\net8.0\ref\MarketPlaceAPI.dll
+C:\Users\kenan\OneDrive\Desktop\Marketplace\Backend\MarketPlaceAPI\MarketPlaceAPI\obj\Debug\net8.0\MarketPlaceAPI.sourcelink.json

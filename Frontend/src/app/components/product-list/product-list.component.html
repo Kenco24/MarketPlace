@@ -1,40 +1,48 @@
-<div class="container">
-    <h2>Products</h2>
-    <div class="row">
-        <div class="col-md-12">
-            <ng-container *ngFor="let row of paginatedRows">
-                <div class="row mb-3">
-                    <div class="col-md-2" *ngFor="let product of row">
-                        <div class="card">
-                        
-                                <img [src]="product.image" class="card-img-top" alt="{{ product.name }}" style="width: 100%; height: 150px;padding:10px;border: 5px solid skyblue">
-
-                            <div class="card-body">
-                                <h5 class="card-title">{{ product.name }}</h5>
-                                <p class="card-text">Price: ${{ product.price }}</p>
-                                <p class="card-text">Category: {{ product.categoryName }}</p>
-                                <p class="card-text">Seller: {{ product.sellerFullName }}</p>
-                                <a href="#" class="btn btn-primary">View Details</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </ng-container>
+<div class="container ">
+  <div>
+    <h2 style="color:white;" *ngIf="products.length > 0">Products</h2>
+  
+    <div *ngIf="products.length === 0" class="mt-72" style="height:407px">
+      <p style="color:white; " class="italic text-xl">No products available.<br><br>Please Refresh the site</p>
+      <a  (click)="refreshPage()">
+        <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 512 512" class="mx-auto refresh-icon" (click)="refreshPage()">
+        <!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+        <path fill="#ffffff" d="M105.1 202.6c7.7-21.8 20.2-42.3 37.8-59.8c62.5-62.5 163.8-62.5 226.3 0L386.3 160H352c-17.7 0-32 14.3-32 32s14.3 32 32 32H463.5c0 0 0 0 0 0h.4c17.7 0 32-14.3 32-32V80c0-17.7-14.3-32-32-32s-32 14.3-32 32v35.2L414.4 97.6c-87.5-87.5-229.3-87.5-316.8 0C73.2 122 55.6 150.7 44.8 181.4c-5.9 16.7 2.9 34.9 19.5 40.8s34.9-2.9 40.8-19.5zM39 289.3c-5 1.5-9.8 4.2-13.7 8.2c-4 4-6.7 8.8-8.1 14c-.3 1.2-.6 2.5-.8 3.8c-.3 1.7-.4 3.4-.4 5.1V432c0 17.7 14.3 32 32 32s32-14.3 32-32V396.9l17.6 17.5 0 0c87.5 87.4 229.3 87.4 316.7 0c24.4-24.4 42.1-53.1 52.9-83.7c5.9-16.7-2.9-34.9-19.5-40.8s-34.9 2.9-40.8 19.5c-7.7 21.8-20.2 42.3-37.8 59.8c-62.5 62.5-163.8 62.5-226.3 0l-.1-.1L125.6 352H160c17.7 0 32-14.3 32-32s-14.3-32-32-32H48.4c-1.6 0-3.2 .1-4.8 .3s-3.1 .5-4.6 1z"/></svg>          <!-- Your SVG path here -->
+        
+      </a>   
+     </div>
+    <div class="row products-row" *ngIf="products.length > 0">
+      <div class="col-md-12">
+        <div class="row mb-3" *ngFor="let row of paginatedRows">
+          <div class="col-md-2" *ngFor="let product of row">
+            <div class="card m-4" style="width:200px;height:400px">
+              <img [src]="product.image" class="card-img-top" alt="{{ product.name }}" style="width: 100%; height: 150px;padding:10px;">
+              <div class="card-body">
+                <h5 class="card-title">{{ product.name }}</h5>
+                <p class="card-text">Price: ${{ product.price }}</p>
+                <p class="card-text">Category: {{ product.categoryName }}</p>
+                <p class="card-text">Seller: {{ product.sellerFullName }}</p>
+              </div>
+              <button class="btn btn-primary align-self-start m-2" (click)="openProductDetails(product)">View Details</button>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
-    <!-- Pagination -->
-    <nav aria-label="Product navigation">
-        <ul class="pagination justify-content-center">
-            <li class="page-item" [class.disabled]="currentPage === 1">
-                <a class="page-link" href="#" (click)="prevPage()">Previous</a>
-            </li>
-            <li class="page-item" *ngFor="let page of getPageNumbers()">
-                <a class="page-link" href="#" (click)="currentPage = page"
-                    [class.active]="currentPage === page">{{ page }}</a>
-            </li>
-            <li class="page-item" [class.disabled]="currentPage === totalPages">
-                <a class="page-link" href="#" (click)="nextPage()">Next</a>
-            </li>
-        </ul>
+    </div>
+  
+    <nav aria-label="Product navigation" *ngIf="products.length > 0">
+      <ul class="pagination justify-content-center">
+        <li class="page-item" [class.disabled]="currentPage === 1">
+          <a class="page-link" href="#" (click)="prevPage()">Previous</a>
+        </li>
+        <li class="page-item" *ngFor="let page of getPageNumbers()">
+          <a class="page-link" href="#" (click)="currentPage = page; paginateProducts()"
+            [class.active]="currentPage === page">{{ page }}</a>
+        </li>
+        <li class="page-item" [class.disabled]="currentPage === totalPages">
+          <a class="page-link" href="#" (click)="nextPage()">Next</a>
+        </li>
+      </ul>
     </nav>
-</div>
+  </div>

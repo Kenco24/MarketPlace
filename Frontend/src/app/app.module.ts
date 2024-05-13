@@ -36,7 +36,9 @@ import { MatDialog, MatDialogModule } from '@angular/material/dialog';
 import { ProductService } from './services/product.service';
 import { BalanceService } from './services/balance.service';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
-
+import { FooterComponent } from './components/footer/footer.component';
+import { ProductDetailsDialogComponent } from './components/product-details-dialog/product-details-dialog.component';
+import { MyProductsComponent } from './pages/my-products/my-products.component';
 
 @NgModule({
   declarations: [
@@ -47,7 +49,10 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
     ProductListComponent,
     RegisterComponent,
     BalanceComponent,
-    DepositDialogComponent
+    DepositDialogComponent,
+    FooterComponent,
+    ProductDetailsDialogComponent,
+    MyProductsComponent
   ],
   imports: [
     BrowserModule,

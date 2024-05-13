@@ -4,22 +4,21 @@ import { BalanceService } from '../../services/balance.service';
 import { DepositDialogComponent } from '../deposit-dialog/deposit-dialog.component';
 import { MatDialog } from '@angular/material/dialog';
 
-
 @Component({
   selector: 'app-balance',
   templateUrl: './balance.component.html',
   styleUrls: ['./balance.component.css']
 })
 export class BalanceComponent implements OnInit, OnDestroy {
-  balance: number = 0; // Initialize balance
-  balanceSubscription!: Subscription; // Initialize balanceSubscription
+  balance: number = 0;
+  balanceSubscription!: Subscription;
 
-  constructor(private balanceService: BalanceService,public dialog: MatDialog) { }
+  constructor(private balanceService: BalanceService, public dialog: MatDialog) { }
 
   ngOnInit(): void {
     this.getBalance();
     this.balanceSubscription = this.balanceService.getBalanceUpdates().subscribe(balance => {
-      this.balance = balance;
+      this.balance = balance; 
     });
   }
 
@@ -40,11 +39,6 @@ export class BalanceComponent implements OnInit, OnDestroy {
 
     dialogRef.afterClosed().subscribe(result => {
       console.log('The dialog was closed');
-      // Handle any actions after dialog close if needed
     });
   }
-
- 
-
- 
 }

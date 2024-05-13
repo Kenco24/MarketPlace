@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketPlaceAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f80366b2365d9595438c33c2516e50776206301")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketPlaceAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketPlaceAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
